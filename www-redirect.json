@@ -1,6 +1,0 @@
-{
-  "RedirectAllRequestsTo": {
-    "HostName": "neilfarrington.com",
-    "Protocol": "https"
-  }
-}
